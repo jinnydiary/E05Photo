@@ -23,7 +23,7 @@
         android:layout_marginTop="8dp"
         android:layout_marginEnd="8dp"
         android:onClick="button_clicked"
-        android:text="Phototo1Activity"
+        android:text="Photo1Activity"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
@@ -36,7 +36,7 @@
         android:layout_marginTop="8dp"
         android:layout_marginEnd="8dp"
         android:onClick="button_clicked"
-        android:text="Phototo2Activity"
+        android:text="Photo2Activity"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/button1" />
